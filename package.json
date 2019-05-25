@@ -1,0 +1,25 @@
+{
+  "name": "touppercaselowcase",
+  "version": "1.0.0",
+  "description": "Convert letters to uppercase or lowercase.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscojsc/toUpperCaseLowCase.git"
+  },
+  "keywords": [
+    "letters",
+    "uppercase",
+    "lowercase",
+    "convert"
+  ],
+  "author": "Francisco Chaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franciscojsc/toUpperCaseLowCase/issues"
+  },
+  "homepage": "https://github.com/franciscojsc/toUpperCaseLowCase#readme"
+}
